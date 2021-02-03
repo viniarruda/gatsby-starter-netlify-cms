@@ -9,3 +9,5 @@ tags:
   - persianas
 ---
 alou alou alou
+
+![persianas](/img/products-full-width.jpg "Persiana")
